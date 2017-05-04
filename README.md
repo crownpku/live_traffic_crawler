@@ -1,4 +1,4 @@
-Python2.7 OpenCV 2.4.10
+Python2.7 OpenCV 2.4.10 Pillow < 3.0
 
 
 # live_traffic_crawler
